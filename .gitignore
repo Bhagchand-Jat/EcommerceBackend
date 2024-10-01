@@ -1,5 +1,8 @@
 HELP.md
 target/
+/bin/
+/ObjectStore/
+/PutObjectStoreDirHere/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
